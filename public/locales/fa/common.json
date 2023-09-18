@@ -1,0 +1,78 @@
+{
+  "switchLanguage": "EN",
+
+  "title": "نیکاهنگ",
+
+  "search": "سرچ",
+
+  "hero.piano.title": "آغاز سفری هنرمندانه با پیانو",
+  "hero.piano.subtitle": "شروع یادگیری پیانو",
+  "hero.piano.button": "شروع یادگیری",
+  "hero.guitar.title": "کشف استعدادتان در نواختن گیتار",
+  "hero.guitar.subtitle": "یادگیری گیتار از پایه",
+  "hero.guitar.button": "شروع یادگیری",
+  "hero.violin.title": "به همراه آواز نغمه‌سازی کنید",
+  "hero.violin.subtitle": " آغاز یادگیری ویولن",
+  "hero.violin.button": "شروع یادگیری",
+
+  "home.about.title": "به نیکاهنگ خوش آمدید",
+  "home.about.text": "ما به تربیت استعداد، نگهداری خلاقیت و قرار دادن موسیقی در دسترس افرادی از هر سن و سطح مهارت متعهد هستیم. استادان محترم ما، که از کارشناسان صنعت و موسیقیدانان موفق تشکیل شده اند، در تمامی سازها و ژانرها آموزش شخصی ارائه می دهند. به ما در هارمونیک رپسودی بپیوندید تا قدرت تحول آفرین موسیقی را جشن بگیریم و در سفر موسیقی منحصر به فرد خود شروع کنید.",
+
+  "home.instrument.title": "آلات موسیقی",
+  "home.instrument.subtitle": "کلاس های ما",
+  "home.instrument.startLearning": "شروع یادگیری",
+  "home.instrument.blogButton.1": "به وبلاگ",
+  "home.instrument.blogButton.2": "نگاه کنید",
+  "home.instrument.piano.name": "پیانو",
+  "home.instrument.piano.description": "ساز همه کاره تولید هارمونی ملودیک با پویایی بیانی.",
+  "home.instrument.guitar.name": "گیتار",
+  "home.instrument.guitar.description": "ساز زهی محبوب برای همراهی ریتمیک و ملودیک.",
+  "home.instrument.setar.name": "ستار",
+  "home.instrument.setar.description": "ساز سنتی ایرانی با صداهای لطیف و روح نواز.",
+  "home.instrument.violin.name": "ویالون",
+  "home.instrument.violin.description": "ساز آرشه ای زیبا که ملودی های احساسی را با صدایی غنی منتقل می کند.",
+  "home.instrument.dulcimer.name": "سنتور",
+  "home.instrument.dulcimer.description": "ساز کوبه ای ملودیک که آهنگ های طنین انداز و الهام گرفته از مردم را ایجاد می کند.",
+  "home.instrument.singing.name": "آواز خوانی",
+  "home.instrument.singing.description": "شکل هنری آوازی که احساسات را از طریق داستان سرایی ملودیک بیان می کند.",
+
+  "blog.test": "این تست بلاگ است",
+
+  "breadCrumbs.home": "خانه",
+
+  "teachers.banner.subTitle": "اساتید",
+  "teachers.banner.title": "اساتید",
+  "teachers.breadCrumbs.main": "اساتید",
+
+  "podcast.banner.subTitle": "پادکست",
+  "podcast.banner.title": "پادکست",
+  "podcast.breadCrumbs.main": "پادکست",
+
+  "instruments.banner.subTitle": "سازشناسی",
+  "instruments.banner.title": "سازشناسی",
+  "instruments.breadCrumbs.main": "سازشناسی",
+
+  "gallery.banner.subTitle": "گالری",
+  "gallery.banner.title": "گالری",
+  "gallery.breadCrumbs.main": "گالری",
+
+  "courses.banner.subTitle": "دوره ها",
+  "courses.banner.title": "دوره ها",
+  "courses.breadCrumbs.main": "دوره ها",
+  "courses.breadCrumbs.piano": "پیانو",
+  "courses.breadCrumbs.violin": "ویولون",
+  "courses.breadCrumbs.drum": "درام",
+  "courses.breadCrumbs.guitar": "گیتار",
+
+  "contactUs.banner.subTitle": "ارتباط با ما",
+  "contactUs.banner.title": "ارتباط با ما",
+  "contactUs.breadCrumbs.main": "ارتباط با ما",
+
+  "blog.banner.subTitle": "بلاگ",
+  "blog.banner.title": "بلاگ",
+  "blog.breadCrumbs.main": "بلاگ",
+
+  "aboutUs.banner.subTitle": "درباره ما",
+  "aboutUs.banner.title": "درباره ما",
+  "aboutUs.breadCrumbs.main": "درباره ما"
+}

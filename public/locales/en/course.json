@@ -1,0 +1,18 @@
+{
+  "title": "Courses",
+  "classesOf": "Classes Of",
+  "teachersOf": "Techers Of",
+  "searchBar": "Search ...",
+  "start": "start",
+  "getStarted": "Get started!",
+  "filterEmpty": "No items found!",
+  "piano": "piano",
+  "violin": "violin",
+  "drum": "drum",
+  "guitar": "guitar",
+  "tableDay": "Day",
+  "tableStart": "Start time",
+  "tableEnd": "End time",
+  "tableTeacher": "Teacher",
+  "tableStatus": "Status"
+}

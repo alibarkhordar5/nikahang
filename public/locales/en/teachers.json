@@ -1,0 +1,29 @@
+{
+  "ourTeachers": "Our Teachers",
+  "cardButton": "About",
+  "modalTab1": "info",
+  "modalTab2": "classes",
+  "socialLink": "link",
+  "teacherOf": "Teacher of",
+  "teacher1.name": "Teacher 1",
+  "teacher2.name": "Teacher 2",
+  "teacher3.name": "Teacher 3",
+  "teacher4.name": "Teacher 4",
+  "teacher5.name": "Teacher 5",
+  "teacher6.name": "Teacher 6",
+  "teacher1.role": "Musician",
+  "teacher2.role": "Musician",
+  "teacher3.role": "Musician",
+  "teacher4.role": "Musician",
+  "teacher5.role": "Musician",
+  "teacher6.role": "Musician",
+
+  "teacher1.class1.name": "Piano class",
+  "teacher1.class1.time": "Monday - 2PM",
+  "teacher1.class2.name": "Violin class",
+  "teacher1.class2.time": "Monday - 6PM",
+
+  "piano": "Piano",
+  "guitar": "Guitar",
+  "violin": "Violin"
+}

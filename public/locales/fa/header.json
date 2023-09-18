@@ -1,0 +1,21 @@
+{
+  "courses": "دوره ها",
+  "courses.persian": "آموزش ساز فارسی",
+  "courses.foreign": "آموزش ساز غربی",
+  "courses.kids": "آموزش موسیقی کودکان",
+  "teachers": "اساتید",
+  "instruments": "سازشناسی",
+  "instruments.piano": "ساز پیانو",
+  "instruments.guitar": "ساز گیتار",
+  "instruments.violin": "ساز ویولن",
+  "instruments.setar": "ساز سه‌تار",
+  "instruments.dulcimer": "ساز سنتور",
+  "instruments.xylophone": "موسیقی کودک (ارف)",
+  "instruments.electricGuitar": "گیتار الکتریک",
+  "gallery": "گالری",
+  "podcasts": "پادکست",
+  "blog": "بلاگ",
+  "about": "درباره ما",
+  "contactUs": "ارتباط با ما",
+  "login": "ورود / ثبت‌نام"
+}

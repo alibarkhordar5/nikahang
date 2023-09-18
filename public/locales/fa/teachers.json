@@ -1,0 +1,29 @@
+{
+  "ourTeachers": "اساتید ما",
+  "cardButton": "درباره",
+  "modalTab1": "اطلاعات",
+  "modalTab2": "کلاس ها",
+  "socialLink": "لینک",
+  "teacherOf": "مدرس",
+  "teacher1.name": "استاد 1",
+  "teacher2.name": "استاد 2",
+  "teacher3.name": "استاد 3",
+  "teacher4.name": "استاد 4",
+  "teacher5.name": "استاد 5",
+  "teacher6.name": "استاد 6",
+  "teacher1.role": "موسیقی دان",
+  "teacher2.role": "موسیقی دان",
+  "teacher3.role": "موسیقی دان",
+  "teacher4.role": "موسیقی دان",
+  "teacher5.role": "موسیقی دان",
+  "teacher6.role": "موسیقی دان",
+
+  "teacher1.class1.name": "کلاس پیانو",
+  "teacher1.class1.time": "دوشنبه - ساعت 2",
+  "teacher1.class2.name": "کلاس ویولن",
+  "teacher1.class2.time": "دوشنبه - ساعت 6",
+
+  "piano": "پیانو",
+  "guitar": "گیتار",
+  "violin": "ویولن"
+}
