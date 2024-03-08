@@ -1,0 +1,40 @@
+/* width */
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+::-webkit-scrollbar:hover {
+  width: 7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #555;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #4361ee;
+}
+
+@font-face {
+  font-family: "dana VF";
+  src: url("/fonts/dana2webGX.woff") format("woff-variations"),
+    url("/fonts/dana2webGX.woff") format("woff");
+}
+
+@font-face {
+  font-family: "dana VF";
+  src: url("/fonts/staticfonts/dana-regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "dana VF";
+  src: url("/fonts/staticfonts/dana-bold.woff") format("woff");
+  font-weight: 700;
+}

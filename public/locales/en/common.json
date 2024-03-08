@@ -1,0 +1,78 @@
+{
+  "switchLanguage": "FA",
+
+  "title": "Nikahang",
+
+  "search": "Search",
+
+  "hero.piano.title": "Piano Proficiency Made Easy",
+  "hero.piano.subtitle": "Start Playing Piano",
+  "hero.piano.button": "Start Learning",
+  "hero.guitar.title": "Discover Your Inner Guitarist",
+  "hero.guitar.subtitle": "Learn Guitar from Scratch",
+  "hero.guitar.button": "Start Learning",
+  "hero.violin.title": "Unlock the Beauty of Violin",
+  "hero.violin.subtitle": "Start Learning Today",
+  "hero.violin.button": "Start Learning",
+
+  "home.about.title": "Welcome to Nikahang",
+  "home.about.text": "We are dedicated to fostering talent, nurturing creativity, and making music accessible to individuals of all ages and skill levels. Our esteemed faculty, comprising industry experts and accomplished musicians, offer personalized instruction across a spectrum of instruments and genres. Join us at the Harmonic Rhapsody to celebrate the transformative power of music and embark on your unique musical journey.",
+
+  "home.instrument.title": "Musical Instruments",
+  "home.instrument.subtitle": "OUR CLASSES",
+  "home.instrument.startLearning": "Start Learning",
+  "home.instrument.blogButton.1": "Look at the",
+  "home.instrument.blogButton.2": "blog",
+  "home.instrument.piano.name": "Piano",
+  "home.instrument.piano.description": "Versatile instrument producing melodic harmonies with expressive dynamics.",
+  "home.instrument.guitar.name": "Guitar",
+  "home.instrument.guitar.description": "Popular stringed instrument for rhythmic and melodic accompaniment.",
+  "home.instrument.setar.name": "Setar",
+  "home.instrument.setar.description": "Traditional Persian instrument with delicate and soulful sounds.",
+  "home.instrument.violin.name": "Violin",
+  "home.instrument.violin.description": "Elegant bowed instrument conveying emotional melodies with rich timbre.",
+  "home.instrument.dulcimer.name": "Dulcimer",
+  "home.instrument.dulcimer.description": "Melodic percussive instrument creating resonant and folk-inspired tunes.",
+  "home.instrument.singing.name": "Singing",
+  "home.instrument.singing.description": "Vocal art form expressing emotions through melodic storytelling.",
+
+  "blog.test": "This is the test of blog",
+
+  "breadCrumbs.home": "Home",
+
+  "teachers.banner.subTitle": "TEACHERS",
+  "teachers.banner.title": "Teachers",
+  "teachers.breadCrumbs.main": "Teachers",
+
+  "podcast.banner.subTitle": "PODCAST",
+  "podcast.banner.title": "Podcast",
+  "podcast.breadCrumbs.main": "Podcast",
+
+  "instruments.banner.subTitle": "INSTRUMENTS",
+  "instruments.banner.title": "Instruments",
+  "instruments.breadCrumbs.main": "Instruments",
+
+  "gallery.banner.subTitle": "GALLERY",
+  "gallery.banner.title": "Gallery",
+  "gallery.breadCrumbs.main": "Gallery",
+
+  "courses.banner.subTitle": "COURSES",
+  "courses.banner.title": "Courses",
+  "courses.breadCrumbs.main": "Courses",
+  "courses.breadCrumbs.piano": "Piano",
+  "courses.breadCrumbs.violin": "Violin",
+  "courses.breadCrumbs.drum": "Drum",
+  "courses.breadCrumbs.guitar": "Guitar",
+
+  "contactUs.banner.subTitle": "CONTACT US",
+  "contactUs.banner.title": "Contact Us",
+  "contactUs.breadCrumbs.main": "Contact Us",
+
+  "blog.banner.subTitle": "BLOG",
+  "blog.banner.title": "Blog",
+  "blog.breadCrumbs.main": "Blog",
+
+  "aboutUs.banner.subTitle": "ABOUT US",
+  "aboutUs.banner.title": "About Us",
+  "aboutUs.breadCrumbs.main": "About Us"
+}

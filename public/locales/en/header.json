@@ -1,0 +1,21 @@
+{
+  "courses": "Courses",
+  "courses.persian": "Persian instruments",
+  "courses.foreign": "Foreign instruments",
+  "courses.kids": "Kids music",
+  "teachers": "Teachers",
+  "instruments": "Instruments",
+  "instruments.piano": "Piano",
+  "instruments.guitar": "Guitar",
+  "instruments.violin": "Violin",
+  "instruments.setar": "Setar",
+  "instruments.dulcimer": "Dulcimer",
+  "instruments.xylophone": "xylophone",
+  "instruments.electricGuitar": "Electric Guitar",
+  "gallery": "Gallery",
+  "podcasts": "Podcasts",
+  "blog": "Blog",
+  "about": "About",
+  "contactUs": "Contact Us",
+  "login": "Login / Sign Up"
+}

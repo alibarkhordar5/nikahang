@@ -1,0 +1,19 @@
+{
+  "title": "دوره ها",
+  "classesOf": "کلاس های",
+  "teachersOf": "اساتید",
+  "searchBar": "سرچ ...",
+  "start": "شروع",
+  "getStarted": "شروع کن!",
+  "filterEmpty": "موردی پیدا نشد!",
+  "piano": "پیانو",
+  "violin": "ویولون",
+  "drum": "درام",
+  "guitar": "گیتار",
+  "tableDay": "روز",
+  "tableStart": "زمان شروع",
+  "tableEnd": "زمان پایان",
+  "tableTeacher": "استاد",
+  "tableStatus": "وضعیت",
+  "filterAll": "همه"
+}
